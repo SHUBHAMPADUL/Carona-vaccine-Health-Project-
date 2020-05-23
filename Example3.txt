@@ -1,11 +1,9 @@
 class Example{
-int a=10;
-int b=20;
-int c=30;
+int a=20;
+int b=40;
 public void m1(){
 sysout("a:"+a);
 sysout("b:"+b);
 }
-Example e=new Example();
-e.m1();
-}
+Example e1=new Example();
+e1.m1();
